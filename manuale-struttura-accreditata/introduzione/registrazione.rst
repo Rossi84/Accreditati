@@ -1,6 +1,8 @@
 Registrazione
 =============
 
+Tutte le utenze definite per le strutture accreditate dovranno accedere con SPID.
+
 Avvvocato
 ~~~~~~~~~
 

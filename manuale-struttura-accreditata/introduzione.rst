@@ -1,7 +1,11 @@
 Introduzione
 ============
 
-Questo capitolo descrive le funzionalità base messe a disposizione per il cliente.
+Questo capitolo descrive le funzionalità base messe a disposizione per le strutture accreditate.
+
+I ruoli a disposizione per le figure delle strutture accreditate sono:
+- **Mandatario struttura accreditata**: gestisce ed ha visibilità dei soli progetti a loro assegnati.
+- **Segretario struttura accreditata**: si occupa dell'assegnazione dei responsabili dei procedimenti. Ha la visibilità di tutti i procedimenti relativi allla struttura accreditata. Gestisce i mandatari.
 
 .. toctree::
   :maxdepth: 3
