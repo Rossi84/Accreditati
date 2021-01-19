@@ -11,8 +11,8 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   :caption: Manuale struttura accreditata
 
   manuale-struttura-accreditata/introduzione.rst
+  manuale-struttura-accreditata/menu.rst
   manuale-struttura-accreditata/ug.rst
   manuale-struttura-accreditata/gu14.rst
   manuale-struttura-accreditata/gu5.rst
-  manuale-struttura-accreditata/menu.rst
   
