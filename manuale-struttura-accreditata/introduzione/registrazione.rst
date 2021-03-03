@@ -3,8 +3,8 @@ Registrazione
 
 Tutte le utenze definite per le strutture accreditate dovranno accedere con SPID.
 
-Avvvocato
-~~~~~~~~~
+Avvocato
+~~~~~~~~
 
 L'avvocato, munito di account SPID, potrà accreditarsi in ConciliaWeb mediante l'apposito collegamento.
 
