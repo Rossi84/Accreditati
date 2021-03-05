@@ -3,7 +3,7 @@ Inserimento istanza
 
 In questa sezione è possibile inserire le istanze per cui si è ricevuto mandato.
 
-Il primo step per l'inserimento dell'istanza è la ricerca, tramite codice fiscale, del mandante.
+Il primo step per l'inserimento dell'istanza è la ricerca, tramite codice fiscale, del mandante. Qualora l'istanza da presentare sia relativa a persona giuridica, ricercare il codice fiscale del suo rappresentante legale.
 
 Se il mandante è già registrato in ConciliaWeb verrà mostrato nei risultati.
 
@@ -32,7 +32,7 @@ Premere il pulstante "Crea utente".
 
    Inserimento istanza - creazione utente
 
-Inserire i dati del mandante (email ed eventuale cellulare devono appartenere al mandante) e premere "Salva".
+Inserire i dati del mandante (email ed eventuale cellulare devono appartenere al mandante) e premere "Salva". Qualora l'istanza da presentare sia intestata a persona giuridica profilare il suo rappresentante legale e inserire i dati dell'azienda premendo "Aggiungi azienda".
 Ricercando ora per codice fiscale è possibile proseguire selezionando la tipologia di procedimento e il tipo di utenza. Premere "Inserisci procedimento".
 
 Inserire tutti i dati relativi all'istanza, inclusa la delega che deve essere scaricata, fatta sottoscrivere dal mandante e allegata.
