@@ -13,6 +13,13 @@ Se il mandante è già registrato in ConciliaWeb verrà mostrato nei risultati.
    :alt: Inserimento istanza utente presente
 
    Inserimento istanza - utente presente
+   
+.. figure:: /media/insistanza_utente_azienda.png
+   :align: center
+   :name: insistanza-utente-azienda
+   :alt: Inserimento istanza utente presente con azienda
+
+   Inserimento istanza - utente presente
 
 Nel caso in cui non sia presente il mandatario provvederà all'inserimento dei dati.
 
