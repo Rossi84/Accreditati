@@ -19,7 +19,7 @@ Se il mandante è già registrato in ConciliaWeb verrà mostrato nei risultati.
    :name: insistanza-utente-azienda
    :alt: Inserimento istanza utente presente con azienda
 
-   Inserimento istanza - utente presente
+   Inserimento istanza - utente presente con azienda associata
 
 Nel caso in cui non sia presente il mandatario provvederà all'inserimento dei dati.
 
