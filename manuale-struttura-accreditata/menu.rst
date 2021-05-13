@@ -10,7 +10,7 @@ Questo capitolo descrive le funzionalità presenti sul menù per avvocati e stru
 
   menu/mandatari.rst
   menu/inserimento-istanza.rst
-  menu/gestione-utenti-azienda.rst
+  menu/gestione-utenti-aziende.rst
   menu/lista-procedimenti.rst
   menu/lista-provvedimenti.rst
   menu/richieste-delega.rst
