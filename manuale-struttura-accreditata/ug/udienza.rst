@@ -7,7 +7,7 @@ Il giorno e l'ora di svolgimento dell'udienza saranno indicate anche sul dettagl
 
 L'udienza può svolgersi in :ref:`virtual room <section-udienza-vr-ug>` oppure con altra modalità indicata dal conciliatore.
 
-In caso di svolgimento dell'udienza in :ref:`virtual room <section-udienza-vr-ug>`, il giorno prefisatto per l'udienza, sul dettaglio compariranno le informazioni utili per la partecipazione.
+In caso di svolgimento dell'udienza in :ref:`virtual room <section-udienza-vr-ug>`, il giorno prefissato per l'udienza, sul dettaglio compariranno le informazioni utili per la partecipazione.
 
 Richiesta di differimento udienza
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

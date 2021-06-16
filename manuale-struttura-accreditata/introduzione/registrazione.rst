@@ -43,4 +43,4 @@ Una volta accreditato l'avvocato potrà accedere con SPID.
 Associazione dei consumatori
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Per poter operare in ConciliaWeb l'associazione dovrà essere accrediatata dall'Autorità che rilascerà l'account per il segretario master, clolui che potrà creare le segreterie e le altre utenze abilitate a lavorare.
+Per poter operare in ConciliaWeb l'associazione dovrà essere accreditata dall'Autorità che rilascerà l'account per il segretario master, colui che potrà creare le segreterie e le altre utenze abilitate a lavorare.

@@ -1,7 +1,7 @@
 Assistenza
 ==========
 
-Dalla pagina di inziale è possibile accedere alla sezione per le richieste di assistenza, premendo su "Hai biogno di aiuto?".
+Dalla pagina di inziale è possibile accedere alla sezione per le richieste di assistenza, premendo su "Hai bisogno di aiuto?".
 
  .. figure:: /media/login.png
    :align: center

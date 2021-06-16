@@ -12,6 +12,6 @@ Da qui è possibile vedere la lista dei mandatatri, modificare il loro profilo e
 
    Mandatari
 
-Dalla colonna "Azioni sulle utenze" è possibile attivare e disattivare il mandatario. I mandatari disativi non potratto più operare con tale profilo.
+Dalla colonna "Azioni sulle utenze" è possibile attivare e disattivare il mandatario. I mandatari disattivi non potranno più operare con tale profilo.
 
-Ogni mandatario deve essere asseganto ad una :ref:`segreteria <section-segreteria>`
+Ogni mandatario deve essere assegnato ad una :ref:`segreteria <section-segreteria>`

@@ -24,4 +24,4 @@ Verrà così mostrato il profilo del cliente ed eventualmente le aziende associa
    Gestione utenti - modifica, eliminazione e aggiunta azienda
 
 Per il profilo utente e per le aziende presenti, se le operazioni sono consentite per l'utente che le sta eseguendo, saranno presenti i tasti "Modifica" ed "Elimina".
-Attraverso il bottone "Aggiungi un'azienda" sarà possibile aggiungere una nuova azineda associata all'utente ricercato.
+Attraverso il bottone "Aggiungi un'azienda" sarà possibile aggiungere una nuova azienda associata all'utente ricercato.
