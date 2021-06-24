@@ -1,5 +1,5 @@
-Richieste di accettazione delega ricevute
-=========================================
+Richieste di accettazione delega o mandati ricevute
+===================================================
 
 I mandanti possono fare richiesta di delega o mandato verso la struttura accreditata per istanze che hanno già inserito.
 
