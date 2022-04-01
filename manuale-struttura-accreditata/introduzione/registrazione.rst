@@ -73,7 +73,7 @@ Inserite le credenziali SPID, verrà mostrata la maschera con i dati da compilar
    :name: accreditamento-commercialista-step3
    :alt: Accreditamento commercialista - invio
 
-   Accreditamento avvocato - Invio
+   Accreditamento commercialista - Invio
 
 Una volta accreditato il commercialista potrà accedere con SPID.
 
