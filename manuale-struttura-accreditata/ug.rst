@@ -1,5 +1,5 @@
-Inserimento istanza di conciliazione (Modello UG)
-=================================================
+Inserimento istanza di conciliazione (Modello UG e SMA)
+=======================================================
 
 In base ai disservizi selezionati e agli operatori coinvolti l'istanza di conciliazione potrà seguire tre distinti iter:
 
